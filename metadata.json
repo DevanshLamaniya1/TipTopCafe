@@ -1,0 +1,6 @@
+{
+  "name": "Tip Top Cafe",
+  "description": "Premium landing page, interactive menu, and 3D table booking system for Tip Top Cafe in Gadarwara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
