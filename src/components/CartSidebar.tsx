@@ -59,7 +59,7 @@ export default function CartSidebar({
     );
 
     // Opening WhatsApp to Cafe support number
-    window.open(`https://wa.me/917974969007?text=${messageText}`, "_blank");
+    window.open(`https://wa.me/916261009496?text=${messageText}`, "_blank");
   };
 
   return (

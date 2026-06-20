@@ -91,7 +91,7 @@ export default function ReviewsSection() {
           We are committed to delivering the absolute finest gourmet experience in Gadarwara. Enjoyed your pull-apart bread or cold coffee? Help other foodies discover us!
         </p>
         <button
-          onClick={() => window.open("https://wa.me/917974969007?text=I'd%20like%20to%20send%2520feedback", "_blank")}
+          onClick={() => window.open("https://wa.me/916261009496?text=I'd%20like%20to%20send%2520feedback", "_blank")}
           className="px-6 py-3 bg-slate-900 border border-slate-750 text-amber-400 hover:border-amber-400 hover:bg-slate-850 rounded-xl text-xs font-bold transition-all shadow-md hover:scale-[1.03] active:scale-95 cursor-pointer"
         >
           Submit Feedback / Leave Review

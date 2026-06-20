@@ -86,7 +86,7 @@ export default function TableBooking3D({
         
         // Open WhatsApp backup
         setTimeout(() => {
-          window.open(`https://wa.me/917974969007?text=${whatsappText}`, "_blank");
+          window.open(`https://wa.me/916261009496?text=${whatsappText}`, "_blank");
         }, 1500);
 
         setFormData({ name: "", phone: "", time: "07:00 PM", guests: 2 });
