@@ -309,7 +309,7 @@ export default function App() {
                           Hospital Road, front of comfort hotel, MP 487551
                         </div>
                         <a 
-                          href="https://wa.me/917974969007" 
+                          href="https://wa.me/916261009496" 
                           target="_blank" 
                           rel="noreferrer"
                           className="p-2.5 bg-emerald-500/10 text-emerald-400 hover:bg-emerald-500/20 rounded-lg border border-emerald-500/20 transition shrink-0"
